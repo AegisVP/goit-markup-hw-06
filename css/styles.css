@@ -313,6 +313,8 @@ body {
   align-items: center;
   padding: 10px 25px;
   min-width: 200px;
+  margin-left: auto;
+  margin-right: auto;
 
   background-color: var(--active-link-color);
   color: var(--contrast-text);
@@ -800,7 +802,7 @@ body {
 }
 
 .form-feedback > .button {
-  margin: 30px auto 40px auto;
+  margin: 30px auto 40px;
 }
 
 
